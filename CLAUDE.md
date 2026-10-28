@@ -2,7 +2,7 @@
 
 Transición de Java a C# y desarrollo con Unity.
 
-## Estructura (real; el README menciona carpetas que aún no existen)
+## Estructura
 - `Transicion-Java-C#/01-Conceptos-Basicos-Y-Condicionales/`, `02-Bucles/`, `03-Juegos/03-Juegos/` — proyectos de consola .NET (`.csproj`, `net10.0`).
 - `Proyecto01/` — proyecto Unity 6 (`6000.0.83f1`), URP e Input System. Escenas en `Assets/Scenes/`.
 

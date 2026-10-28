@@ -8,9 +8,11 @@ C# programming, Unity game engine, multimedia systems, and interactive logic cou
 
 El repositorio se organiza de forma modular por bloques de práctica y contenidos del curso:
 
-* **`Transicion-Java-C#/`**: Ejercicios y chuletas de adaptación de sintaxis (tipos de datos, propiedades, métodos en PascalCase, estructuras y colecciones de Java a C#).
-* **`Ejercicios-Consola/`**: Hojas de ejercicios prácticos de conceptos básicos, condicionales, bucles, arrays y juegos interactivos de consola (como *Piensa y Adivina*).
-* **`Unity-Proyectos/`**: Prácticas, scripts de comportamiento y desarrollo de videojuegos o simulaciones multimedia utilizando el motor Unity.
+* **`Transicion-Java-C#/`**: Adaptación de Java a C# con ejercicios de consola (.NET):
+  * `01-Conceptos-Basicos-Y-Condicionales/`: tipos de datos, propiedades, métodos en PascalCase y condicionales.
+  * `02-Bucles/`: estructuras de repetición y arrays.
+  * `03-Juegos/`: juegos interactivos de consola (como *Piensa y Adivina*).
+* **`Proyecto01/`**: Primer proyecto de Unity 6 (URP e Input System): escenas, scripts de comportamiento y lógica de componentes en C#.
 
 ---
 
