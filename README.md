@@ -11,7 +11,7 @@ El repositorio se organiza de forma modular por bloques de práctica y contenido
 * **`transicion-java-csharp/`**: Adaptación de Java a C# con ejercicios de consola (.NET):
   * `01-conceptos-basicos-y-condicionales/`: tipos de datos, propiedades, métodos en PascalCase y condicionales.
   * `02-bucles/`: estructuras de repetición y arrays.
-  * `03-juegos/`: juegos interactivos de consola (como *Piensa y Adivina*).
+  * `03-juegos/`: juegos interactivos de consola (como *Piensa y Adivina*). Los enunciados de *Adivina y Piensa* y *Piensa y Adivina* están en `enunciados/`.
 * **`fichas-unity/`**: Fichas teóricas de Unity de la 1ª evaluación (PDF), numeradas del 1 al 14:
   * `ficha-01` a `ficha-03`: entorno de Unity, espacio de trabajo y ventanas, y GameObject.
   * `ficha-04` a `ficha-07`: `Vector2` y `Vector3`, `Transform`, nuevo Input System y el atributo `[SerializeField]`.
