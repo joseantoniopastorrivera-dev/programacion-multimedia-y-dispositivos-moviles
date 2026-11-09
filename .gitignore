@@ -5,3 +5,6 @@ obj/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 *.csproj.user
+
+# Guías de defensa: material personal, nunca se suben a GitHub
+guia-defensa-*.md
